@@ -22,7 +22,7 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-h2{
+h2 {
   color: #93a1a1;
 }
 
@@ -42,11 +42,11 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-ol:first-child{
+ol:first-child {
   color: #719e47;
 }
 
-ol:last-child{
+ol:last-child {
   color: #2aa198;
 }
 
